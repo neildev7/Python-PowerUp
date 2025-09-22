@@ -44,8 +44,7 @@ O sistema realiza automaticamente:
 
 ## ▶️ Como Usar
 
-1. Clone o repositório e instale as dependências:  
-   pip install pyautogui pandas
+1. Clone o repositório e instale as dependências: pip install pyautogui pandas
 2. Ajuste as coordenadas de clique de acordo com sua tela utilizando:
    python auxiliar.py
 3. Execute a automação:
